@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Eren</h1>
 <h3 align="center">Hello world! I am a 2rd-grade computer engineering student with a passion for World Wide Web. You can check out my github account to see my projects and contents.</h3>
 
@@ -12,7 +10,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahmeterenkaplan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmeterenkaplan" height="30" width="40" /></a>
-<a href="https://discord.gg/9946" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9946" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
