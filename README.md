@@ -5,6 +5,6 @@
 -                     user.email = erenkaplanm@gmail.com
 -                     user.linkedIn = https://www.linkedin.com/in/ahmeterenkaplan/
 -                     
--       [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmeterenkaplan)](https://github.com/anuraghazra/github-readme-stats)
+-       [[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmeterenkaplan)](https://github.com/anuraghazra/github-readme-stats)
 
-        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeterenkaplan&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+        [[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeterenkaplan&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
