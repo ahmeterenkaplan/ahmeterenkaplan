@@ -1,11 +1,13 @@
+
+
+<h1 align="center">Hi 👋, I'm Eren</h1>
+<h3 align="center">Hello world! I am a 2rd-grade computer engineering student with a passion for World Wide Web. You can check out my github account to see my projects and contents.</h3>
+
 🔭 I’m currently working on freelance projects
 
 🌱 I’m currently learning HTML,CSS,React and Javascript
 
 📫 How to reach me erenkaplanm@gmail.com
-
-<h1 align="center">Hi 👋, I'm Eren</h1>
-<h3 align="center">Hello world! I am a 2rd-grade computer engineering student with a passion for World Wide Web. You can check out my github account to see my projects and contents.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
