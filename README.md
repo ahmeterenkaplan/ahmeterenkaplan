@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on freelance projects
 
-🌱 I’m currently learning HTML,CSS,React and Javascript
+🌱 I’m currently learning HTML,CSS,React and Javascript, .NET
 
 📫 How to reach me erenkaplanm@gmail.com
 
